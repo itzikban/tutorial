@@ -1,3 +1,3 @@
-FROM python:2.7.18-stretch
+FROM python:2.7.17
 
 ENV DOCKERIZE_VERSION 0.6.1
